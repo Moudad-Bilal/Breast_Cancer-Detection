@@ -1,0 +1,4 @@
+# Breast_Cancer-Detection
+ Le cancer du sein est le cancer le plus fréquent chez la femme et le deuxième cancer le plus fréquent dans l'ensemble. Il y a eu plus de 2,3 millions de nouveaux cas en 2020, ce qui en fait un problème de santé important de nos jours.
+Le principal défi dans la détection du cancer du sein est de classer les tumeurs comme malignes ou bénignes. Maligne fait référence aux cellules cancéreuses qui peuvent envahir et tuer les tissus voisins et se propager à d'autres parties de votre corps. Contrairement aux tumeurs cancéreuses (malignes), les tumeurs bénignes ne se propagent pas à d'autres parties du corps et sont sûres d'une manière ou d'une autre. Les techniques de réseau de neurones profonds peuvent être utilisées pour améliorer considérablement la précision du diagnostic précoce.
+
